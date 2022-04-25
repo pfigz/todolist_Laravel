@@ -22,7 +22,7 @@ npm i vue-loader
 npm install && npm run dev
 ```
 
-The default app.js file will contain extra code, but shouldn't interfere with the rest of the tutorial. 
+The default app.js file will contain extra code. I recommend removing it to match the tutorial for simplicity. 
 
 ## License
 
